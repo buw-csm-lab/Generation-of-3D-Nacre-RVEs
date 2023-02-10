@@ -30,7 +30,7 @@ Additional functions for MatLab script are defined in .m files.
 
 ### Further information
 
-For more information, the reader is referred to the article "Python codes to generate skeletal muscle models on each hierarchical level".
+For more information, the reader is referred to the article "*Generation of 3D Representative Volume Elements (RVEs) of Nacre*.
 
 ### Licence
 
