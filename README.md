@@ -5,10 +5,10 @@ This is the data repository of the article *Generation of 3D Representative Volu
 ### Contents
 
 Two scripts are provided:
-* MatLab code for generating randomized layers of nacre (polygonal mineral
+* `a01_Nacre_2D_RVE.m`: MatLab code for generating randomized layers of nacre (polygonal mineral
   platelets separated by a protein matrix) \
   geometry (size of RVE, layer thickness, matrix thickness, average platelet size) is parameterized
-* Python script to read in layer data and generate nacre representative volume element
+* `a02_Nacre_FULL_3D_RVE.py`: Python script to read in layer data and generate nacre representative volume element
     in <span style="font-variant:small-caps;">Abaqus</span> 
 
 
